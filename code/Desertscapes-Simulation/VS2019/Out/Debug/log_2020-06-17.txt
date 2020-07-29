@@ -1,0 +1,400 @@
+2020-06-17 16:47:14	--- Fresh Run begins ----
+2020-06-17 16:47:51	color check Low res dune done.
+2020-06-17 16:47:51	Time required = 37.000000 seconds
+2020-06-17 16:47:51	--- Start of next ---
+2020-06-17 16:48:33	--- Fresh Run begins ----
+2020-06-17 16:49:10	color check Low res dune done.
+2020-06-17 16:49:10	Time required = 37.000000 seconds
+2020-06-17 16:49:10	--- Start of next ---
+2020-06-17 16:51:08	--- Fresh Run begins ----
+2020-06-17 16:51:45	color check Low res dune done.
+2020-06-17 16:51:45	Time required = 37.000000 seconds
+2020-06-17 16:51:45	--- Start of next ---
+2020-06-17 16:53:39	--- Fresh Run begins ----
+2020-06-17 16:54:17	color check Low res dune done.
+2020-06-17 16:54:17	Time required = 38.000000 seconds
+2020-06-17 16:54:17	--- Start of next ---
+2020-06-17 16:56:33	--- Fresh Run begins ----
+2020-06-17 16:57:12	color check Low res dune done.
+2020-06-17 16:57:12	Time required = 39.000000 seconds
+2020-06-17 16:57:12	--- Start of next ---
+2020-06-17 16:59:56	--- Fresh Run begins ----
+2020-06-17 16:59:56	color check Low res dune done.
+2020-06-17 16:59:56	Time required = 0.000000 seconds
+2020-06-17 16:59:56	--- Start of next ---
+2020-06-17 17:01:24	--- Fresh Run begins ----
+2020-06-17 17:01:24	color check Low res dune done.
+2020-06-17 17:01:24	Time required = 0.000000 seconds
+2020-06-17 17:01:24	--- Start of next ---
+2020-06-17 17:01:49	--- Fresh Run begins ----
+2020-06-17 17:01:50	color check Low res dune done.
+2020-06-17 17:01:50	Time required = 1.000000 seconds
+2020-06-17 17:01:50	--- Start of next ---
+2020-06-17 17:04:12	--- Fresh Run begins ----
+2020-06-17 17:04:13	color check Low res dune done.
+2020-06-17 17:04:13	Time required = 1.000000 seconds
+2020-06-17 17:04:13	--- Start of next ---
+2020-06-17 17:05:16	--- Fresh Run begins ----
+2020-06-17 17:05:16	color check Low res dune done.
+2020-06-17 17:05:16	Time required = 0.000000 seconds
+2020-06-17 17:05:16	--- Start of next ---
+2020-06-17 17:10:20	--- Fresh Run begins ----
+2020-06-17 17:10:20	color check Low res dune done.
+2020-06-17 17:10:20	Time required = 0.000000 seconds
+2020-06-17 17:10:20	--- Start of next ---
+2020-06-17 17:11:47	--- Fresh Run begins ----
+2020-06-17 17:11:48	color check Low res dune done.
+2020-06-17 17:11:48	Time required = 1.000000 seconds
+2020-06-17 17:11:48	--- Start of next ---
+2020-06-17 17:14:03	--- Fresh Run begins ----
+2020-06-17 17:14:03	color check Low res dune done.
+2020-06-17 17:14:03	Time required = 0.000000 seconds
+2020-06-17 17:14:03	--- Start of next ---
+2020-06-17 17:16:00	--- Fresh Run begins ----
+2020-06-17 17:16:00	color check Low res dune done.
+2020-06-17 17:16:00	Time required = 0.000000 seconds
+2020-06-17 17:16:00	--- Start of next ---
+2020-06-17 17:18:32	--- Fresh Run begins ----
+2020-06-17 17:18:32	color check Low res dune done.
+2020-06-17 17:18:32	Time required = 0.000000 seconds
+2020-06-17 17:18:32	--- Start of next ---
+2020-06-17 17:27:11	--- Fresh Run begins ----
+2020-06-17 17:27:12	color check Low res dune done.
+2020-06-17 17:27:12	Time required = 1.000000 seconds
+2020-06-17 17:27:12	--- Start of next ---
+2020-06-17 17:28:09	--- Fresh Run begins ----
+2020-06-17 17:28:09	color check Low res dune done.
+2020-06-17 17:28:09	Time required = 0.000000 seconds
+2020-06-17 17:28:09	--- Start of next ---
+2020-06-17 17:30:35	--- Fresh Run begins ----
+2020-06-17 17:30:35	color check Low res dune done.
+2020-06-17 17:30:35	Time required = 0.000000 seconds
+2020-06-17 17:30:35	--- Start of next ---
+2020-06-17 17:32:53	--- Fresh Run begins ----
+2020-06-17 17:32:53	color check Low res dune done.
+2020-06-17 17:32:53	Time required = 0.000000 seconds
+2020-06-17 17:32:53	--- Start of next ---
+2020-06-17 17:33:31	--- Fresh Run begins ----
+2020-06-17 17:33:31	color check Low res dune done.
+2020-06-17 17:33:31	Time required = 0.000000 seconds
+2020-06-17 17:33:31	--- Start of next ---
+2020-06-17 17:34:04	--- Fresh Run begins ----
+2020-06-17 17:34:04	color check Low res dune done.
+2020-06-17 17:34:04	Time required = 0.000000 seconds
+2020-06-17 17:34:04	--- Start of next ---
+2020-06-17 17:35:04	--- Fresh Run begins ----
+2020-06-17 17:35:04	color check Low res dune done.
+2020-06-17 17:35:04	Time required = 0.000000 seconds
+2020-06-17 17:35:04	--- Start of next ---
+2020-06-17 17:37:14	--- Fresh Run begins ----
+2020-06-17 17:37:14	color check Low res dune done.
+2020-06-17 17:37:14	Time required = 0.000000 seconds
+2020-06-17 17:37:14	--- Start of next ---
+2020-06-17 17:39:26	--- Fresh Run begins ----
+2020-06-17 17:39:26	color check Low res dune done.
+2020-06-17 17:39:26	Time required = 0.000000 seconds
+2020-06-17 17:39:26	--- Start of next ---
+2020-06-17 17:39:35	--- Fresh Run begins ----
+2020-06-17 17:39:35	color check Low res dune done.
+2020-06-17 17:39:35	Time required = 0.000000 seconds
+2020-06-17 17:39:35	--- Start of next ---
+2020-06-17 17:40:02	--- Fresh Run begins ----
+2020-06-17 17:40:02	color check Low res dune done.
+2020-06-17 17:40:02	Time required = 0.000000 seconds
+2020-06-17 17:40:02	--- Start of next ---
+2020-06-17 17:48:55	--- Fresh Run begins ----
+2020-06-17 17:48:55	color check Low res dune done.
+2020-06-17 17:48:55	Time required = 0.000000 seconds
+2020-06-17 17:48:55	--- Start of next ---
+2020-06-17 17:49:35	--- Fresh Run begins ----
+2020-06-17 17:49:35	color check Low res dune done.
+2020-06-17 17:49:35	Time required = 0.000000 seconds
+2020-06-17 17:49:35	--- Start of next ---
+2020-06-17 17:57:27	--- Fresh Run begins ----
+2020-06-17 17:57:28	color check Low res dune done.
+2020-06-17 17:57:28	Time required = 1.000000 seconds
+2020-06-17 17:57:28	--- Start of next ---
+2020-06-17 18:02:53	--- Fresh Run begins ----
+2020-06-17 18:02:53	color check Low res dune done.
+2020-06-17 18:02:53	Time required = 0.000000 seconds
+2020-06-17 18:02:53	--- Start of next ---
+2020-06-17 18:04:17	--- Fresh Run begins ----
+2020-06-17 18:04:18	color check Low res dune done.
+2020-06-17 18:04:18	Time required = 1.000000 seconds
+2020-06-17 18:04:18	--- Start of next ---
+2020-06-17 18:07:59	--- Fresh Run begins ----
+2020-06-17 18:07:59	color check Low res dune done.
+2020-06-17 18:07:59	Time required = 0.000000 seconds
+2020-06-17 18:07:59	--- Start of next ---
+2020-06-17 18:12:14	--- Fresh Run begins ----
+2020-06-17 18:12:14	color check Low res dune done.
+2020-06-17 18:12:14	Time required = 0.000000 seconds
+2020-06-17 18:12:14	--- Start of next ---
+2020-06-17 18:14:14	--- Fresh Run begins ----
+2020-06-17 18:14:14	color check Low res dune done.
+2020-06-17 18:14:14	Time required = 0.000000 seconds
+2020-06-17 18:14:14	--- Start of next ---
+2020-06-17 18:38:35	--- Fresh Run begins ----
+2020-06-17 18:38:36	color check Low res dune done.
+2020-06-17 18:38:36	Time required = 1.000000 seconds
+2020-06-17 18:38:36	--- Start of next ---
+2020-06-17 18:40:59	--- Fresh Run begins ----
+2020-06-17 18:41:00	color check Low res dune done.
+2020-06-17 18:41:00	Time required = 1.000000 seconds
+2020-06-17 18:41:00	--- Start of next ---
+2020-06-17 18:41:35	--- Fresh Run begins ----
+2020-06-17 18:41:35	color check Low res dune done.
+2020-06-17 18:41:35	Time required = 0.000000 seconds
+2020-06-17 18:41:35	--- Start of next ---
+2020-06-17 18:43:41	--- Fresh Run begins ----
+2020-06-17 18:43:41	color check Low res dune done.
+2020-06-17 18:43:41	Time required = 0.000000 seconds
+2020-06-17 18:43:41	--- Start of next ---
+2020-06-17 18:43:53	--- Fresh Run begins ----
+2020-06-17 18:43:53	color check Low res dune done.
+2020-06-17 18:43:53	Time required = 0.000000 seconds
+2020-06-17 18:43:53	--- Start of next ---
+2020-06-17 18:45:31	--- Fresh Run begins ----
+2020-06-17 18:45:31	color check Low res dune done.
+2020-06-17 18:45:31	Time required = 0.000000 seconds
+2020-06-17 18:45:31	--- Start of next ---
+2020-06-17 18:47:19	--- Fresh Run begins ----
+2020-06-17 18:47:19	color check Low res dune done.
+2020-06-17 18:47:19	Time required = 0.000000 seconds
+2020-06-17 18:47:19	--- Start of next ---
+2020-06-17 18:49:36	--- Fresh Run begins ----
+2020-06-17 18:49:36	color check Low res dune done.
+2020-06-17 18:49:36	Time required = 0.000000 seconds
+2020-06-17 18:49:36	--- Start of next ---
+2020-06-17 18:52:30	--- Fresh Run begins ----
+2020-06-17 18:52:30	color check Low res dune done.
+2020-06-17 18:52:30	Time required = 0.000000 seconds
+2020-06-17 18:52:30	--- Start of next ---
+2020-06-17 18:52:38	--- Fresh Run begins ----
+2020-06-17 18:52:38	color check Low res dune done.
+2020-06-17 18:52:38	Time required = 0.000000 seconds
+2020-06-17 18:52:38	--- Start of next ---
+2020-06-17 18:54:18	--- Fresh Run begins ----
+2020-06-17 18:54:18	color check Low res dune done.
+2020-06-17 18:54:18	Time required = 0.000000 seconds
+2020-06-17 18:54:18	--- Start of next ---
+2020-06-17 18:56:24	--- Fresh Run begins ----
+2020-06-17 18:56:24	color check Low res dune done.
+2020-06-17 18:56:24	Time required = 0.000000 seconds
+2020-06-17 18:56:24	--- Start of next ---
+2020-06-17 18:56:37	--- Fresh Run begins ----
+2020-06-17 18:56:38	color check Low res dune done.
+2020-06-17 18:56:38	Time required = 1.000000 seconds
+2020-06-17 18:56:38	--- Start of next ---
+2020-06-17 18:59:00	--- Fresh Run begins ----
+2020-06-17 18:59:01	color check Low res dune done.
+2020-06-17 18:59:01	Time required = 1.000000 seconds
+2020-06-17 18:59:01	--- Start of next ---
+2020-06-17 19:01:47	--- Fresh Run begins ----
+2020-06-17 19:01:47	color check Low res dune done.
+2020-06-17 19:01:47	Time required = 0.000000 seconds
+2020-06-17 19:01:47	--- Start of next ---
+2020-06-17 19:03:49	--- Fresh Run begins ----
+2020-06-17 19:03:50	color check Low res dune done.
+2020-06-17 19:03:50	Time required = 1.000000 seconds
+2020-06-17 19:03:50	--- Start of next ---
+2020-06-17 19:04:25	--- Fresh Run begins ----
+2020-06-17 19:04:25	color check Low res dune done.
+2020-06-17 19:04:25	Time required = 0.000000 seconds
+2020-06-17 19:04:25	--- Start of next ---
+2020-06-17 19:08:27	--- Fresh Run begins ----
+2020-06-17 19:08:28	color check Low res dune done.
+2020-06-17 19:08:28	Time required = 1.000000 seconds
+2020-06-17 19:08:28	--- Start of next ---
+2020-06-17 19:11:16	--- Fresh Run begins ----
+2020-06-17 19:11:16	color check Low res dune done.
+2020-06-17 19:11:16	Time required = 0.000000 seconds
+2020-06-17 19:11:16	--- Start of next ---
+2020-06-17 19:16:10	--- Fresh Run begins ----
+2020-06-17 19:16:10	color check Low res dune done.
+2020-06-17 19:16:10	Time required = 0.000000 seconds
+2020-06-17 19:16:10	--- Start of next ---
+2020-06-17 19:18:58	--- Fresh Run begins ----
+2020-06-17 19:18:59	color check Low res dune done.
+2020-06-17 19:18:59	Time required = 1.000000 seconds
+2020-06-17 19:18:59	--- Start of next ---
+2020-06-17 19:22:37	--- Fresh Run begins ----
+2020-06-17 19:22:38	color check Low res dune done.
+2020-06-17 19:22:38	Time required = 1.000000 seconds
+2020-06-17 19:22:38	--- Start of next ---
+2020-06-17 19:27:41	--- Fresh Run begins ----
+2020-06-17 19:27:41	color check Low res dune done.
+2020-06-17 19:27:41	Time required = 0.000000 seconds
+2020-06-17 19:27:41	--- Start of next ---
+2020-06-17 19:28:33	--- Fresh Run begins ----
+2020-06-17 19:28:33	color check Low res dune done.
+2020-06-17 19:28:33	Time required = 0.000000 seconds
+2020-06-17 19:28:33	--- Start of next ---
+2020-06-17 19:29:50	--- Fresh Run begins ----
+2020-06-17 19:29:51	color check Low res dune done.
+2020-06-17 19:29:51	Time required = 1.000000 seconds
+2020-06-17 19:29:51	--- Start of next ---
+2020-06-17 19:31:24	--- Fresh Run begins ----
+2020-06-17 19:31:24	color check Low res dune done.
+2020-06-17 19:31:24	Time required = 0.000000 seconds
+2020-06-17 19:31:24	--- Start of next ---
+2020-06-17 19:36:32	--- Fresh Run begins ----
+2020-06-17 19:36:33	color check Low res dune done.
+2020-06-17 19:36:33	Time required = 1.000000 seconds
+2020-06-17 19:36:33	--- Start of next ---
+2020-06-17 19:40:23	--- Fresh Run begins ----
+2020-06-17 19:40:24	color check Low res dune done.
+2020-06-17 19:40:24	Time required = 1.000000 seconds
+2020-06-17 19:40:24	--- Start of next ---
+2020-06-17 19:43:21	--- Fresh Run begins ----
+2020-06-17 19:43:22	color check Low res dune done.
+2020-06-17 19:43:22	Time required = 1.000000 seconds
+2020-06-17 19:43:22	--- Start of next ---
+2020-06-17 20:06:04	--- Fresh Run begins ----
+2020-06-17 20:06:05	color check Low res dune done.
+2020-06-17 20:06:05	Time required = 1.000000 seconds
+2020-06-17 20:06:05	--- Start of next ---
+2020-06-17 20:07:58	--- Fresh Run begins ----
+2020-06-17 20:07:58	color check Low res dune done.
+2020-06-17 20:07:58	Time required = 0.000000 seconds
+2020-06-17 20:07:58	--- Start of next ---
+2020-06-17 20:08:55	--- Fresh Run begins ----
+2020-06-17 20:08:55	color check Low res dune done.
+2020-06-17 20:08:55	Time required = 0.000000 seconds
+2020-06-17 20:08:55	--- Start of next ---
+2020-06-17 20:10:19	--- Fresh Run begins ----
+2020-06-17 20:10:19	color check Low res dune done.
+2020-06-17 20:10:19	Time required = 0.000000 seconds
+2020-06-17 20:10:19	--- Start of next ---
+2020-06-17 20:11:22	--- Fresh Run begins ----
+2020-06-17 20:11:22	color check Low res dune done.
+2020-06-17 20:11:22	Time required = 0.000000 seconds
+2020-06-17 20:11:22	--- Start of next ---
+2020-06-17 20:12:04	--- Fresh Run begins ----
+2020-06-17 20:12:04	color check Low res dune done.
+2020-06-17 20:12:04	Time required = 0.000000 seconds
+2020-06-17 20:12:04	--- Start of next ---
+2020-06-17 20:13:45	--- Fresh Run begins ----
+2020-06-17 20:13:45	color check Low res dune done.
+2020-06-17 20:13:45	Time required = 0.000000 seconds
+2020-06-17 20:13:45	--- Start of next ---
+2020-06-17 20:14:14	--- Fresh Run begins ----
+2020-06-17 20:14:14	color check Low res dune done.
+2020-06-17 20:14:14	Time required = 0.000000 seconds
+2020-06-17 20:14:14	--- Start of next ---
+2020-06-17 20:16:07	--- Fresh Run begins ----
+2020-06-17 20:16:07	color check Low res dune done.
+2020-06-17 20:16:07	Time required = 0.000000 seconds
+2020-06-17 20:16:07	--- Start of next ---
+2020-06-17 20:16:10	--- Fresh Run begins ----
+2020-06-17 20:16:10	color check Low res dune done.
+2020-06-17 20:16:10	Time required = 0.000000 seconds
+2020-06-17 20:16:10	--- Start of next ---
+2020-06-17 20:18:18	--- Fresh Run begins ----
+2020-06-17 20:18:18	color check Low res dune done.
+2020-06-17 20:18:18	Time required = 0.000000 seconds
+2020-06-17 20:18:18	--- Start of next ---
+2020-06-17 20:18:42	--- Fresh Run begins ----
+2020-06-17 20:18:42	color check Low res dune done.
+2020-06-17 20:18:42	Time required = 0.000000 seconds
+2020-06-17 20:18:42	--- Start of next ---
+2020-06-17 20:33:08	--- Fresh Run begins ----
+2020-06-17 20:33:08	color check Low res dune done.
+2020-06-17 20:33:08	Time required = 0.000000 seconds
+2020-06-17 20:33:08	--- Start of next ---
+2020-06-17 20:35:36	--- Fresh Run begins ----
+2020-06-17 20:35:37	color check Low res dune done.
+2020-06-17 20:35:37	Time required = 1.000000 seconds
+2020-06-17 20:35:37	--- Start of next ---
+2020-06-17 20:41:58	--- Fresh Run begins ----
+2020-06-17 20:41:58	color check Low res dune done.
+2020-06-17 20:41:58	Time required = 0.000000 seconds
+2020-06-17 20:41:58	--- Start of next ---
+2020-06-17 20:44:57	--- Fresh Run begins ----
+2020-06-17 20:44:57	color check Low res dune done.
+2020-06-17 20:44:57	Time required = 0.000000 seconds
+2020-06-17 20:44:57	--- Start of next ---
+2020-06-17 20:46:28	--- Fresh Run begins ----
+2020-06-17 20:46:29	color check Low res dune done.
+2020-06-17 20:46:29	Time required = 1.000000 seconds
+2020-06-17 20:46:29	--- Start of next ---
+2020-06-17 20:47:19	--- Fresh Run begins ----
+2020-06-17 20:47:19	color check Low res dune done.
+2020-06-17 20:47:19	Time required = 0.000000 seconds
+2020-06-17 20:47:19	--- Start of next ---
+2020-06-17 20:47:24	--- Fresh Run begins ----
+2020-06-17 20:47:24	color check Low res dune done.
+2020-06-17 20:47:24	Time required = 0.000000 seconds
+2020-06-17 20:47:24	--- Start of next ---
+2020-06-17 20:52:37	--- Fresh Run begins ----
+2020-06-17 20:52:38	color check Low res dune done.
+2020-06-17 20:52:38	Time required = 1.000000 seconds
+2020-06-17 20:52:38	--- Start of next ---
+2020-06-17 20:56:23	--- Fresh Run begins ----
+2020-06-17 20:56:23	color check Low res dune done.
+2020-06-17 20:56:23	Time required = 0.000000 seconds
+2020-06-17 20:56:23	--- Start of next ---
+2020-06-17 21:01:22	--- Fresh Run begins ----
+2020-06-17 21:01:22	color check Low res dune done.
+2020-06-17 21:01:22	Time required = 0.000000 seconds
+2020-06-17 21:01:22	--- Start of next ---
+2020-06-17 21:04:18	--- Fresh Run begins ----
+2020-06-17 21:04:19	color check Low res dune done.
+2020-06-17 21:04:19	Time required = 1.000000 seconds
+2020-06-17 21:04:19	--- Start of next ---
+2020-06-17 21:50:31	--- Fresh Run begins ----
+2020-06-17 21:50:31	color check Low res dune done.
+2020-06-17 21:50:31	Time required = 0.000000 seconds
+2020-06-17 21:50:31	--- Start of next ---
+2020-06-17 21:50:31	QT dune done.
+2020-06-17 21:50:31	Time required = 0.000000 seconds
+2020-06-17 21:50:32	Total Time required = 1.000000 seconds
+2020-06-17 21:50:32	--- Run Ends ----
+2020-06-17 21:57:51	--- Fresh Run begins ----
+2020-06-17 21:57:51	color check Low res dune done.
+2020-06-17 21:57:51	Time required = 0.000000 seconds
+2020-06-17 21:57:51	--- Start of next ---
+2020-06-17 21:57:51	QT dune done.
+2020-06-17 21:57:51	Time required = 0.000000 seconds
+2020-06-17 21:57:51	Total Time required = 0.000000 seconds
+2020-06-17 21:57:51	--- Run Ends ----
+2020-06-17 21:59:17	--- Fresh Run begins ----
+2020-06-17 21:59:17	color check Low res dune done.
+2020-06-17 21:59:17	Time required = 0.000000 seconds
+2020-06-17 21:59:17	--- Start of next ---
+2020-06-17 21:59:17	QT dune done.
+2020-06-17 21:59:17	Time required = 0.000000 seconds
+2020-06-17 21:59:17	Total Time required = 0.000000 seconds
+2020-06-17 21:59:17	--- Run Ends ----
+2020-06-17 22:00:23	--- Fresh Run begins ----
+2020-06-17 22:00:23	color check Low res dune done.
+2020-06-17 22:00:23	Time required = 0.000000 seconds
+2020-06-17 22:00:23	--- Start of next ---
+2020-06-17 22:00:23	QT dune done.
+2020-06-17 22:00:23	Time required = 0.000000 seconds
+2020-06-17 22:00:23	Total Time required = 0.000000 seconds
+2020-06-17 22:00:23	--- Run Ends ----
+2020-06-17 22:02:55	--- Fresh Run begins ----
+2020-06-17 22:02:56	color check Low res dune done.
+2020-06-17 22:02:56	Time required = 1.000000 seconds
+2020-06-17 22:02:56	--- Start of next ---
+2020-06-17 22:02:56	QT dune done.
+2020-06-17 22:02:56	Time required = 0.000000 seconds
+2020-06-17 22:02:56	Total Time required = 1.000000 seconds
+2020-06-17 22:02:56	--- Run Ends ----
+2020-06-17 23:05:45	--- Fresh Run begins ----
+2020-06-17 23:05:45	color check Low res dune done.
+2020-06-17 23:05:45	Time required = 0.000000 seconds
+2020-06-17 23:05:45	--- Start of next ---
+2020-06-17 23:08:40	--- Fresh Run begins ----
+2020-06-17 23:08:40	color check Low res dune done.
+2020-06-17 23:08:40	Time required = 0.000000 seconds
+2020-06-17 23:08:40	--- Start of next ---
+2020-06-17 23:11:28	--- Fresh Run begins ----
+2020-06-17 23:11:28	color check Low res dune done.
+2020-06-17 23:11:28	Time required = 0.000000 seconds
+2020-06-17 23:11:28	--- Start of next ---
+2020-06-17 23:11:28	QT dune done.
+2020-06-17 23:11:28	Time required = 0.000000 seconds
+2020-06-17 23:11:28	Total Time required = 0.000000 seconds
+2020-06-17 23:11:28	--- Run Ends ----

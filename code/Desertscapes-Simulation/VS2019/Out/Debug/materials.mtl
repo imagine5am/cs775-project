@@ -1,0 +1,15 @@
+newmtl desert_yellow
+Ka 0.94 0.784 0.553
+Kd 0.94 0.784 0.553
+d 1
+illum 1
+newmtl desert_brown
+Ka 0.94 0.784 0.553
+Kd 0.98 0.62 0.37
+d 1
+illum 1
+newmtl highlight_blue
+Ka 1 1 0
+Kd 0 0 1
+d 0.5
+illum 1

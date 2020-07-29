@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Anant\Desktop\iitb\ACG Project\project-193050016\code\Desertscapes-Simulation\Code\Include\basics.h(693,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Desertscapes-CGF2019.vcxproj -> C:\Users\Anant\Desktop\iitb\ACG Project\project-193050016\code\Desertscapes-Simulation\VS2019\Out\Debug\Desertscapes-CGF2019.exe

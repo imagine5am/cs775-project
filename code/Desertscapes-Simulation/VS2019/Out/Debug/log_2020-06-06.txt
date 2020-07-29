@@ -1,0 +1,8 @@
+2020-06-06 02:18:43	--- Fresh Run begins ----
+2020-06-06 02:21:15	Low res dune done.
+2020-06-06 02:21:15	Time required = 152.000000 seconds
+2020-06-06 02:21:15	--- Start of next ---
+2020-06-06 02:24:20	time hybrid dune done.
+2020-06-06 02:24:20	Time required = 185.000000 seconds
+2020-06-06 02:24:20	Total Time required = 337.000000 seconds
+2020-06-06 02:24:20	--- Run Ends ----

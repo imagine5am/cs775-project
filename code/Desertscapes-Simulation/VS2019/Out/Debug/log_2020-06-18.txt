@@ -1,0 +1,221 @@
+2020-06-18 08:29:22	--- Fresh Run begins ----
+2020-06-18 08:29:23	color check Low res dune done.
+2020-06-18 08:29:23	Time required = 1.000000 seconds
+2020-06-18 08:29:23	--- Start of next ---
+2020-06-18 08:29:23	QT dune done.
+2020-06-18 08:29:23	Time required = 0.000000 seconds
+2020-06-18 08:29:23	Total Time required = 1.000000 seconds
+2020-06-18 08:29:23	--- Run Ends ----
+2020-06-18 08:40:24	--- Fresh Run begins ----
+2020-06-18 08:40:24	color check Low res dune done.
+2020-06-18 08:40:24	Time required = 0.000000 seconds
+2020-06-18 08:40:24	--- Start of next ---
+2020-06-18 08:40:24	QT dune done.
+2020-06-18 08:40:24	Time required = 0.000000 seconds
+2020-06-18 08:40:24	Total Time required = 0.000000 seconds
+2020-06-18 08:40:24	--- Run Ends ----
+2020-06-18 08:42:00	--- Fresh Run begins ----
+2020-06-18 08:42:38	color check Low res dune done.
+2020-06-18 08:42:38	Time required = 38.000000 seconds
+2020-06-18 08:42:38	--- Start of next ---
+2020-06-18 08:42:43	QT dune done.
+2020-06-18 08:42:43	Time required = 5.000000 seconds
+2020-06-18 08:42:43	Total Time required = 43.000000 seconds
+2020-06-18 08:42:43	--- Run Ends ----
+2020-06-18 08:58:12	--- Fresh Run begins ----
+2020-06-18 09:00:37	color check Low res dune done.
+2020-06-18 09:00:37	Time required = 145.000000 seconds
+2020-06-18 09:00:37	--- Start of next ---
+2020-06-18 09:00:57	QT dune done.
+2020-06-18 09:00:57	Time required = 20.000000 seconds
+2020-06-18 09:00:57	Total Time required = 165.000000 seconds
+2020-06-18 09:00:57	--- Run Ends ----
+2020-06-18 09:23:46	--- Fresh Run begins ----
+2020-06-18 09:26:11	color check Low res dune done.
+2020-06-18 09:26:11	Time required = 145.000000 seconds
+2020-06-18 09:26:11	--- Start of next ---
+2020-06-18 09:26:32	QT dune done.
+2020-06-18 09:26:32	Time required = 21.000000 seconds
+2020-06-18 09:26:32	Total Time required = 166.000000 seconds
+2020-06-18 09:26:32	--- Run Ends ----
+2020-06-18 09:32:27	--- Fresh Run begins ----
+2020-06-18 09:34:56	color check Low res dune done.
+2020-06-18 09:34:56	Time required = 149.000000 seconds
+2020-06-18 09:34:56	--- Start of next ---
+2020-06-18 09:45:01	--- Fresh Run begins ----
+2020-06-18 09:45:01	color check Low res dune done.
+2020-06-18 09:45:01	Time required = 0.000000 seconds
+2020-06-18 09:45:01	--- Start of next ---
+2020-06-18 09:45:01	QT dune done.
+2020-06-18 09:45:01	Time required = 0.000000 seconds
+2020-06-18 09:45:01	Total Time required = 0.000000 seconds
+2020-06-18 09:45:01	--- Run Ends ----
+2020-06-18 09:45:39	--- Fresh Run begins ----
+2020-06-18 09:46:18	color check Low res dune done.
+2020-06-18 09:46:18	Time required = 39.000000 seconds
+2020-06-18 09:46:18	--- Start of next ---
+2020-06-18 09:46:27	QT dune done.
+2020-06-18 09:46:27	Time required = 9.000000 seconds
+2020-06-18 09:46:27	Total Time required = 48.000000 seconds
+2020-06-18 09:46:27	--- Run Ends ----
+2020-06-18 09:55:06	--- Fresh Run begins ----
+2020-06-18 09:55:45	color check Low res dune done.
+2020-06-18 09:55:45	Time required = 39.000000 seconds
+2020-06-18 09:55:45	--- Start of next ---
+2020-06-18 09:55:53	QT dune done.
+2020-06-18 09:55:53	Time required = 8.000000 seconds
+2020-06-18 09:55:53	Total Time required = 47.000000 seconds
+2020-06-18 09:55:53	--- Run Ends ----
+2020-06-18 10:04:49	--- Fresh Run begins ----
+2020-06-18 10:05:24	color check Low res dune done.
+2020-06-18 10:05:24	Time required = 35.000000 seconds
+2020-06-18 10:05:24	--- Start of next ---
+2020-06-18 10:05:32	Non Uniform QT dune done.
+2020-06-18 10:05:32	Time required = 8.000000 seconds
+2020-06-18 10:05:32	Total Time required = 43.000000 seconds
+2020-06-18 10:05:32	--- Run Ends ----
+2020-06-18 14:15:35	--- Fresh Run begins ----
+2020-06-18 14:16:10	color check Low res dune done.
+2020-06-18 14:16:10	Time required = 35.000000 seconds
+2020-06-18 14:16:10	--- Start of next ---
+2020-06-18 14:16:21	Non Uniform QT dune done.
+2020-06-18 14:16:21	Time required = 11.000000 seconds
+2020-06-18 14:16:21	Total Time required = 46.000000 seconds
+2020-06-18 14:16:21	--- Run Ends ----
+2020-06-18 19:34:17	--- Fresh Run begins ----
+2020-06-18 19:34:52	 Low res dune done.
+2020-06-18 19:34:52	Time required = 35.000000 seconds
+2020-06-18 19:34:52	--- Start of next ---
+2020-06-18 19:47:16	--- Fresh Run begins ----
+2020-06-18 19:47:51	 Low res dune done.
+2020-06-18 19:47:51	Time required = 35.000000 seconds
+2020-06-18 19:47:51	--- Start of next ---
+2020-06-18 19:48:04	Non Uniform QT dune done.
+2020-06-18 19:48:04	Time required = 13.000000 seconds
+2020-06-18 19:48:04	Total Time required = 48.000000 seconds
+2020-06-18 19:48:04	--- Run Ends ----
+2020-06-18 20:23:48	--- Fresh Run begins ----
+2020-06-18 20:26:20	 Low res dune done.
+2020-06-18 20:26:20	Time required = 152.000000 seconds
+2020-06-18 20:27:00	 Time Hybrid dune done.
+2020-06-18 20:27:00	Time required = 40.000000 seconds
+2020-06-18 20:27:00	--- Start of next ---
+2020-06-18 21:13:46	--- Fresh Run begins ----
+2020-06-18 21:14:24	 Low res dune done.
+2020-06-18 21:14:24	Time required = 38.000000 seconds
+2020-06-18 21:14:39	 Time Hybrid dune done.
+2020-06-18 21:14:39	Time required = 15.000000 seconds
+2020-06-18 21:14:39	--- Start of next ---
+2020-06-18 21:30:47	--- Fresh Run begins ----
+2020-06-18 21:31:28	 Low res dune done.
+2020-06-18 21:31:28	Time required = 41.000000 seconds
+2020-06-18 21:31:43	 Time Hybrid dune done.
+2020-06-18 21:31:43	Time required = 15.000000 seconds
+2020-06-18 21:31:43	--- Start of next ---
+2020-06-18 21:35:49	--- Fresh Run begins ----
+2020-06-18 21:36:29	--- Fresh Run begins ----
+2020-06-18 21:37:07	 Low res dune done.
+2020-06-18 21:37:07	Time required = 38.000000 seconds
+2020-06-18 21:37:22	 Time Hybrid dune done.
+2020-06-18 21:37:22	Time required = 15.000000 seconds
+2020-06-18 21:37:22	--- Start of next ---
+2020-06-18 21:38:20	Non Uniform QT dune done.
+2020-06-18 21:38:20	Time required = 58.000000 seconds
+2020-06-18 21:38:20	Total Time required = 111.000000 seconds
+2020-06-18 21:38:20	--- Run Ends ----
+2020-06-18 21:43:30	--- Fresh Run begins ----
+2020-06-18 21:44:09	 Low res dune done.
+2020-06-18 21:44:09	Time required = 39.000000 seconds
+2020-06-18 21:44:24	 Time Hybrid dune done.
+2020-06-18 21:44:24	Time required = 15.000000 seconds
+2020-06-18 21:44:24	--- Start of next ---
+2020-06-18 21:45:24	Non Uniform QT dune done.
+2020-06-18 21:45:24	Time required = 60.000000 seconds
+2020-06-18 21:45:24	Total Time required = 114.000000 seconds
+2020-06-18 21:45:24	--- Run Ends ----
+2020-06-18 21:57:20	--- Fresh Run begins ----
+2020-06-18 21:58:01	 Low res dune done.
+2020-06-18 21:58:01	Time required = 41.000000 seconds
+2020-06-18 21:58:17	 Time Hybrid dune done.
+2020-06-18 21:58:17	Time required = 16.000000 seconds
+2020-06-18 21:58:17	--- Start of next ---
+2020-06-18 21:59:32	Non Uniform QT dune done.
+2020-06-18 21:59:32	Time required = 75.000000 seconds
+2020-06-18 21:59:32	Total Time required = 132.000000 seconds
+2020-06-18 21:59:32	--- Run Ends ----
+2020-06-18 22:14:02	--- Fresh Run begins ----
+2020-06-18 22:14:02	 Low res dune done.
+2020-06-18 22:14:02	Time required = 0.000000 seconds
+2020-06-18 22:14:02	--- Start of next ---
+2020-06-18 22:14:52	--- Fresh Run begins ----
+2020-06-18 22:14:53	 Low res dune done.
+2020-06-18 22:14:53	Time required = 1.000000 seconds
+2020-06-18 22:14:53	--- Start of next ---
+2020-06-18 22:15:09	--- Fresh Run begins ----
+2020-06-18 22:15:09	 Low res dune done.
+2020-06-18 22:15:09	Time required = 0.000000 seconds
+2020-06-18 22:15:09	--- Start of next ---
+2020-06-18 22:15:41	--- Fresh Run begins ----
+2020-06-18 22:15:42	 Low res dune done.
+2020-06-18 22:15:42	Time required = 1.000000 seconds
+2020-06-18 22:15:42	--- Start of next ---
+2020-06-18 22:17:55	--- Fresh Run begins ----
+2020-06-18 22:17:55	 Low res dune done.
+2020-06-18 22:17:55	Time required = 0.000000 seconds
+2020-06-18 22:17:55	--- Start of next ---
+2020-06-18 22:18:07	--- Fresh Run begins ----
+2020-06-18 22:18:07	 Low res dune done.
+2020-06-18 22:18:07	Time required = 0.000000 seconds
+2020-06-18 22:18:07	--- Start of next ---
+2020-06-18 22:18:35	--- Fresh Run begins ----
+2020-06-18 22:18:36	 Low res dune done.
+2020-06-18 22:18:36	Time required = 1.000000 seconds
+2020-06-18 22:18:36	--- Start of next ---
+2020-06-18 22:19:29	--- Fresh Run begins ----
+2020-06-18 22:20:06	 Low res dune done.
+2020-06-18 22:20:06	Time required = 37.000000 seconds
+2020-06-18 22:20:06	--- Start of next ---
+2020-06-18 22:21:13	Non Uniform QT dune done.
+2020-06-18 22:21:13	Time required = 67.000000 seconds
+2020-06-18 22:21:13	Total Time required = 104.000000 seconds
+2020-06-18 22:21:13	--- Run Ends ----
+2020-06-18 22:35:01	--- Fresh Run begins ----
+2020-06-18 22:35:38	 Low res dune done.
+2020-06-18 22:35:38	Time required = 37.000000 seconds
+2020-06-18 22:35:38	--- Start of next ---
+2020-06-18 22:36:29	Non Uniform QT dune done.
+2020-06-18 22:36:29	Time required = 51.000000 seconds
+2020-06-18 22:36:29	Total Time required = 88.000000 seconds
+2020-06-18 22:36:29	--- Run Ends ----
+2020-06-18 22:41:15	--- Fresh Run begins ----
+2020-06-18 22:41:54	 Low res dune done.
+2020-06-18 22:41:54	Time required = 39.000000 seconds
+2020-06-18 22:41:54	--- Start of next ---
+2020-06-18 22:42:45	Non Uniform QT dune done.
+2020-06-18 22:42:45	Time required = 51.000000 seconds
+2020-06-18 22:42:45	Total Time required = 90.000000 seconds
+2020-06-18 22:42:45	--- Run Ends ----
+2020-06-18 22:46:03	--- Fresh Run begins ----
+2020-06-18 22:46:41	 Low res dune done.
+2020-06-18 22:46:41	Time required = 38.000000 seconds
+2020-06-18 22:46:41	--- Start of next ---
+2020-06-18 22:47:32	Non Uniform QT dune done.
+2020-06-18 22:47:32	Time required = 51.000000 seconds
+2020-06-18 22:47:32	Total Time required = 89.000000 seconds
+2020-06-18 22:47:32	--- Run Ends ----
+2020-06-18 22:48:48	--- Fresh Run begins ----
+2020-06-18 22:49:27	 Low res dune done.
+2020-06-18 22:49:27	Time required = 39.000000 seconds
+2020-06-18 22:49:27	--- Start of next ---
+2020-06-18 22:50:19	Non Uniform QT dune done.
+2020-06-18 22:50:19	Time required = 52.000000 seconds
+2020-06-18 22:50:19	Total Time required = 91.000000 seconds
+2020-06-18 22:50:19	--- Run Ends ----
+2020-06-18 22:58:43	--- Fresh Run begins ----
+2020-06-18 22:59:25	 Low res dune done.
+2020-06-18 22:59:25	Time required = 42.000000 seconds
+2020-06-18 22:59:25	--- Start of next ---
+2020-06-18 23:00:16	Non Uniform QT dune done.
+2020-06-18 23:00:16	Time required = 51.000000 seconds
+2020-06-18 23:00:16	Total Time required = 93.000000 seconds
+2020-06-18 23:00:16	--- Run Ends ----

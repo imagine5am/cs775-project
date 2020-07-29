@@ -1,0 +1,8 @@
+2020-06-19 21:29:27	--- Fresh Run begins ----
+2020-06-19 21:30:03	 Low res dune done.
+2020-06-19 21:30:03	Time required = 36.000000 seconds
+2020-06-19 21:30:03	--- Start of next ---
+2020-06-19 21:30:54	Non Uniform QT dune done.
+2020-06-19 21:30:54	Time required = 51.000000 seconds
+2020-06-19 21:30:54	Total Time required = 87.000000 seconds
+2020-06-19 21:30:54	--- Run Ends ----

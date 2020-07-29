@@ -1,0 +1,12 @@
+2020-06-16 11:47:51	--- Fresh Run begins ----
+2020-06-16 11:50:16	color check Low res dune done.
+2020-06-16 11:50:16	Time required = 145.000000 seconds
+2020-06-16 11:50:16	--- Start of next ---
+2020-06-16 11:56:44	--- Fresh Run begins ----
+2020-06-16 11:59:13	color check Low res dune done.
+2020-06-16 11:59:13	Time required = 149.000000 seconds
+2020-06-16 11:59:13	--- Start of next ---
+2020-06-16 12:02:40	time hybrid (512) dune with backsnaps done.
+2020-06-16 12:02:40	Time required = 207.000000 seconds
+2020-06-16 12:02:40	Total Time required = 356.000000 seconds
+2020-06-16 12:02:40	--- Run Ends ----

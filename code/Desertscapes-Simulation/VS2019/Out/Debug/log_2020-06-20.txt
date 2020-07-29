@@ -1,0 +1,63 @@
+2020-06-20 15:15:43	--- Fresh Run begins ----
+2020-06-20 15:16:19	--- Fresh Run begins ----
+2020-06-20 15:16:55	 Low res dune done.
+2020-06-20 15:16:55	Time required = 36.000000 seconds
+2020-06-20 15:16:55	--- Start of next ---
+2020-06-20 15:20:20	--- Fresh Run begins ----
+2020-06-20 15:20:56	 Low res dune done.
+2020-06-20 15:20:56	Time required = 36.000000 seconds
+2020-06-20 15:20:56	--- Start of next ---
+2020-06-20 15:21:48	Non Uniform QT dune done.
+2020-06-20 15:21:48	Time required = 52.000000 seconds
+2020-06-20 15:21:48	Total Time required = 88.000000 seconds
+2020-06-20 15:21:48	--- Run Ends ----
+2020-06-20 15:28:56	--- Fresh Run begins ----
+2020-06-20 15:29:33	 Low res dune done.
+2020-06-20 15:29:33	Time required = 37.000000 seconds
+2020-06-20 15:29:33	--- Start of next ---
+2020-06-20 15:29:52	Non Uniform QT dune done.
+2020-06-20 15:29:52	Time required = 19.000000 seconds
+2020-06-20 15:29:52	Total Time required = 56.000000 seconds
+2020-06-20 15:29:52	--- Run Ends ----
+2020-06-20 15:44:30	--- Fresh Run begins ----
+2020-06-20 15:45:07	 Low res dune done.
+2020-06-20 15:45:07	Time required = 37.000000 seconds
+2020-06-20 15:45:07	--- Start of next ---
+2020-06-20 15:45:21	 Time Hybrid dune done.
+2020-06-20 15:45:21	Time required = 14.000000 seconds
+2020-06-20 15:45:21	--- Start of next ---
+2020-06-20 15:45:40	Non Uniform QT dune done.
+2020-06-20 15:45:40	Time required = 19.000000 seconds
+2020-06-20 15:45:40	--- Start of next ---
+2020-06-20 15:48:23	Non Uniform QT enrichment of TH done.
+2020-06-20 15:48:23	Time required = 163.000000 seconds
+2020-06-20 15:48:23	Total Time required = 233.000000 seconds
+2020-06-20 15:48:23	--- Run Ends ----
+2020-06-20 16:40:51	--- Fresh Run begins ----
+2020-06-20 16:43:42	 Low res dune done.
+2020-06-20 16:43:42	Time required = 171.000000 seconds
+2020-06-20 16:43:42	--- Start of next ---
+2020-06-20 16:44:48	 Time Hybrid dune done.
+2020-06-20 16:44:48	Time required = 66.000000 seconds
+2020-06-20 16:44:48	--- Start of next ---
+2020-06-20 16:47:52	Non Uniform QT dune done.
+2020-06-20 16:47:52	Time required = 184.000000 seconds
+2020-06-20 16:47:52	--- Start of next ---
+2020-06-20 17:29:09	Non Uniform QT enrichment of TH done.
+2020-06-20 17:29:09	Time required = 2477.000000 seconds
+2020-06-20 17:29:09	Total Time required = 2898.000000 seconds
+2020-06-20 17:29:09	--- Run Ends ----
+2020-06-20 20:38:06	--- Fresh Run begins ----
+2020-06-20 20:38:43	 Low res dune done.
+2020-06-20 20:38:43	Time required = 37.000000 seconds
+2020-06-20 20:38:43	--- Start of next ---
+2020-06-20 20:38:57	 Time Hybrid dune done.
+2020-06-20 20:38:57	Time required = 14.000000 seconds
+2020-06-20 20:38:57	--- Start of next ---
+2020-06-20 20:39:15	Non Uniform QT dune done.
+2020-06-20 20:39:15	Time required = 18.000000 seconds
+2020-06-20 20:39:15	--- Start of next ---
+2020-06-20 20:42:04	Non Uniform QT enrichment of TH done.
+2020-06-20 20:42:04	Time required = 169.000000 seconds
+2020-06-20 20:42:04	Total Time required = 238.000000 seconds
+2020-06-20 20:42:04	--- Run Ends ----
